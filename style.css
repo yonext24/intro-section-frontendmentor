@@ -181,7 +181,7 @@ body {
   width: 40%;
   min-width: 270px;
   background-color: white;
-  z-index: 30;
+  z-index: 3000;
   display: flex;
   flex-direction: column;
 }
