@@ -120,9 +120,6 @@ body {
   display: flex;
   align-items: center;
 }
-.btn-container:hover img {
-  margin-right: 200px;
-}
 .left-side .logos img {
   margin: 0 5px;
 }
